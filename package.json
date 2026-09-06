@@ -1,0 +1,15 @@
+
+
+{
+  "name": "student-result-js",
+  "version": "1.0.0",
+  "description": "Week 6 Hack-O-Week task - Student examination result processor",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js"
+  }
+}
+
+
+
