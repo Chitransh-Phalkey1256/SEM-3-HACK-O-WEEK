@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Online Stationery Ordering System</title>
+
+    <style>
+        body {
+            font-family: Arial;
+            background-color: #f2f2f2;
+            text-align: center;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        .box {
+            background: white;
+            width: 80%;
+            margin: 20px auto;
+            padding: 20px;
+            border-radius: 10px;
+        }
+
+        button {
+            padding: 10px 15px;
+            margin: 5px;
+            cursor: pointer;
+            border: none;
+            border-radius: 5px;
+            background-color: #333;
+            color: white;
+        }
+
+        button:hover {
+            background-color: #555;
+        }
+
+        #output {
+            margin-top: 20px;
+            font-size: 18px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Online Stationery Ordering System</h1>
+
+    <div class="box">
+
+        <h2>Stationery Products</h2>
+
+        <button onclick="fetchProductsCallback()">
+            Fetch Products (Callback)
+        </button>
+
+        <button onclick="fetchProductPromise()">
+            Fetch Product (Promise)
+        </button>
+
+        <button onclick="placeOrder()">
+            Place Order (Async/Await)
+        </button>
+
+        <div id="output"></div>
+
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
