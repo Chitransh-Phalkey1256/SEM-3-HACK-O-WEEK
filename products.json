@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Classmate Notebook",
+        "category": "Notebook",
+        "price": 80,
+        "availability": 25
+    },
+    {
+        "id": 2,
+        "name": "Blue Ball Pen",
+        "category": "Pen",
+        "price": 15,
+        "availability": 50
+    },
+    {
+        "id": 3,
+        "name": "Apsara Pencil",
+        "category": "Pencil",
+        "price": 10,
+        "availability": 40
+    },
+    {
+        "id": 4,
+        "name": "Nataraj Eraser",
+        "category": "Eraser",
+        "price": 5,
+        "availability": 30
+    },
+    {
+        "id": 5,
+        "name": "Faber-Castell Highlighter",
+        "category": "Highlighter",
+        "price": 35,
+        "availability": 20
+    },
+    {
+        "id": 6,
+        "name": "Cello Gel Pen",
+        "category": "Pen",
+        "price": 25,
+        "availability": 35
+    },
+    {
+        "id": 7,
+        "name": "Camlin Geometry Box",
+        "category": "Geometry",
+        "price": 120,
+        "availability": 15
+    },
+    {
+        "id": 8,
+        "name": "Sticky Notes",
+        "category": "Notes",
+        "price": 45,
+        "availability": 22
+    },
+    {
+        "id": 9,
+        "name": "Fevicol Glue Stick",
+        "category": "Adhesive",
+        "price": 30,
+        "availability": 18
+    },
+    {
+        "id": 10,
+        "name": "Paper Clips Pack",
+        "category": "Office",
+        "price": 25,
+        "availability": 28
+    }
+]
